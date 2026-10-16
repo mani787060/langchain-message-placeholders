@@ -179,4 +179,3 @@ By exploring this project, you can understand:
 `MessagesPlaceholder` is a useful building block for creating flexible conversational prompts in LangChain. By separating prompt structure from conversation history, developers can build cleaner and more maintainable LLM applications.
 
 This project provides a foundation for progressing toward chatbots with managed conversation memory, RAG, and more advanced Generative AI workflows.
-
